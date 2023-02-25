@@ -1,8 +1,9 @@
 # test2
+<pre>
 from sklearn.cluster import AgglomerativeClustering, Birch, DBSCAN, KMeans, MeanShift, MiniBatchKMeans, OPTICS, SpectralClustering, AffinityPropagation, FeatureAgglomeration, AgglomerativeClustering, Birch, DBSCAN, KMeans, MeanShift, MiniBatchKMeans, OPTICS, SpectralClustering
 from sklearn.mixture import GaussianMixture
 from sklearn.metrics import silhouette_score
-<pre>
+
 
 # Create a list of clustering algorithms to test
 clustering_algorithms = [
